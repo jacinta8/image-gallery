@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+.imageGallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 40vw;
+  margin: 50px auto;
+  row-gap: 20px;
+}
